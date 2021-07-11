@@ -50,7 +50,7 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton(
-                            "Source", url="https://carisendiribro.com"
+                            "Source", url="https://searchforyourself.com"
                         ),
                         InlineKeyboardButton("Bot List", url="https://t.me/SpreadNetworks/3"),
                     ],
