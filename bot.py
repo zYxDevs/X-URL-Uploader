@@ -29,10 +29,10 @@ if __name__ == "__main__" :
     )
     app = pyrogram.Client(
         "X-URL-Uploader",
-        bot_token=Config.TG_BOT_TOKEN,
-        api_id=Config.APP_ID,
-        api_hash=Config.API_HASH,
+        bot_token=Config.6670557483:AAGMevy1kSrxqyGYjpuT95cKOQorMYFqh-k,
+        api_id=Config.23163380,
+        api_hash=Config.2dca155e786c7db2d295e5b4ab10783b,
         plugins=plugins
     )
-    Config.AUTH_USERS.add(958850850)
+    Config.AUTH_USERS.add(5827915041)
     app.run()
